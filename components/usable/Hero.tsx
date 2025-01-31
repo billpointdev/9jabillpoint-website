@@ -73,7 +73,7 @@ export function Hero() {
           </motion.button>
         ))}
 
-        <Image src="/9jabillpoint-design.png" width={1500} height={1500} alt="hello"/>
+        <Image src="/9jabp.png" width={1500} height={1500} alt="hello"/>
       </motion.div>
     </motion.section>
   )
