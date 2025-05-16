@@ -36,11 +36,11 @@ export function Hero() {
       <motion.h1 className="max-w-4xl mx-auto" variants={itemVariants}>
 
         <span className="block text-3xl sm:text-5xl md:text-6xl font-semibold text-[#F66B06] mb-4">
-          Deposit, Choose, Complete
+          Fund, Select, Purchase
         </span>
 
         <span className="block text-3xl sm:text-5xl md:text-6xl font-semibold text-[#2D3648]">
-        The Ultimate Payment Center
+        The Ultimate Utility Hub
         </span>
       </motion.h1>
 

@@ -19,8 +19,8 @@ export function Header() {
     >
       <Link href="/" className="flex items-center">
         <Image
-          src="/9jabillpointicon 1.png"
-          alt="9jabillpoint Logo"
+          src="/bills.png"
+          alt="billpointng Logo"
           width={100}
           height={40}
           className="h-8 sm:h-10 w-auto"

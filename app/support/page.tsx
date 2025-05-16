@@ -76,11 +76,11 @@ export default function SupportPage() {
             <div className="space-y-4">
               <div className="flex items-center space-x-3 text-gray-700">
                 <Mail className="w-5 h-5 text-indigo-600" />
-                <span>support@9jabillpoint.co</span>
+                <span>support@billpointng.co</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-700">
                 <Phone className="w-5 h-5 text-indigo-600" />
-                <span>+2347014795274</span>
+                <span>+2349023469946</span>
               </div>
          {/*     <div className="flex items-center space-x-3 text-gray-700">
                 <MapPin className="w-5 h-5 text-indigo-600" />

@@ -32,14 +32,14 @@ export function Footer() {
           {/* Company Info */}
           <div className="md:col-span-1">
             <Image
-              src="/9jabillpointicon 1.png"
-              alt="9jabillpoint Logo"
+              src="/bills.png"
+              alt="billpointng Logo"
               width={120}
               height={40}
               className="mb-6"
             />
             <p className="text-gray-600 text-sm mb-6">
-              Your go-to platform for hassle-free bill payments and beyond. With our intuitive and efficient app, you can seamlessly buy airtime, gift cards, data, book flights, activate eSIMs, and much more—all in one place. Simplifying transactions for your convenience, every step of the way.
+              Your ultimate bill utility platform and beyond. With our intuitive and efficient app, you can seamlessly buy airtime, gift cards, data, book flights, activate eSIMs, and much more—all in one place. Simplifying transactions for your convenience, every step of the way.
             </p>
             <p className="text-gray-600 text-sm mb-4">
               Click below to get the app today on Android and iOS.
@@ -107,7 +107,7 @@ export function Footer() {
               </Link>
             </div>
             <div className="flex flex-wrap items-center gap-4 text-sm text-gray-600">
-              <a href="mailto:support@9jabillpoint.co">support@9jabillpoint.co</a>
+              <a href="mailto:support@9jabillpoint.co">support@billpointng.co</a>
               <span>+2347014795274</span>
             </div>
             <div className="flex items-center gap-4 text-sm text-gray-600">
@@ -117,7 +117,7 @@ export function Footer() {
             </div>
           </div>
           <p className="text-center text-gray-500 text-sm mt-6">
-            © 2025 9jabillpoint. All Rights Reserved.
+            © 2025 billpointng. All Rights Reserved.
           </p>
         </div>
       </div>
