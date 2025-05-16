@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "9jabillpoint",
+  title: "billpointng",
   description: "Seamless Transaction made easy",
 };
 
